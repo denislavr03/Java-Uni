@@ -69,7 +69,7 @@ import java.util.Scanner;
 }*/
 
 //zadacha 5
-public class Main {
+/*public class Main {
     public  static void main(String[] args) {
         int[][] arr = new int[3][3];
         int sumWo5 = 0;
@@ -97,4 +97,4 @@ public class Main {
         System.out.println("Sum: " + sum);
         System.out.print("Sum Without: " + sumWo5);
     }
-}
+}*/
